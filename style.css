@@ -1,0 +1,38 @@
+div {
+    background-color: black;
+}
+
+h1{
+    text-align: center;
+    text-transform: capitalize;
+    color: #82b1b3;
+}
+h3 {
+    text-transform: capitalize;
+}
+
+h2, h3, h4, h5, p, li {
+    color: white;
+    
+} 
+
+.center {
+    display: block;
+    margin: 0 auto;
+}
+div {
+    padding: 50px;
+  margin: 50px;  
+}
+
+
+head > link {
+  font-family: "Teko", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+}
+
+img {
+    position: relative;
+}
